@@ -1,1 +1,1 @@
-# ARCRaidersStreamdeckEmotes
+# ARC Raiders Streamdeck Emotes Macros
